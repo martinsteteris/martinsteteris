@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**martinsteteris/martinsteteris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My name is Martins.
 
-Here are some ideas to get you started:
+I'm a PHP developer from Riga, Latvia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm  passionate about coding and eager to leave bugless environment and clean code behind me :) 
+
+#### Here's what I know/am working on:
+
+- PHP
+- MySQL
+- Laravel
+- Unit & Integration testing (including TDD methods)
+- MVC, SOLID & design patterns (KISS, DRY, etc.)
+- GIT
+- Building REST API
+- HTML, CSS, Bootstrap, Angular basics
+- Javascript, Typescript basics
+
+If you want to know me more - here's my [LinkedIn](https://www.linkedin.com/in/martins-teteris/).
